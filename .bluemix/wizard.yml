@@ -190,8 +190,6 @@ form:
       $ref: wizard_vault.json
 
   wizard_optional_tools:
-    parameters:
-      doi: true
     schema:
       $ref: wizard_optional_tools.json
 
